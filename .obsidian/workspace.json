@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "fd938b72d724dbda",
+        "id": "0c61b1f6e9690c8a",
         "type": "tabs",
         "children": [
           {
-            "id": "f3a9f393a5f6fb5a",
+            "id": "0dc00e3f046fd852",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Develop/Project/CodeSpace/README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "README"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 262.5
   },
   "right": {
     "id": "79bdb176e23c7a86",
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Develop/Project/CodeSpace/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "README 的反向链接列表"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Develop/Project/CodeSpace/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "README 的出链列表"
             }
           },
           {
@@ -131,17 +137,18 @@
             }
           },
           {
-            "id": "3cdf416400f76054",
+            "id": "eb2932368d7ce526",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "Develop/Project/CodeSpace/README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "README 的大纲"
             }
           },
           {
@@ -159,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 338.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,6 +179,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f3a9f393a5f6fb5a",
-  "lastOpenFiles": []
+  "active": "504c4e9474e76cb2",
+  "lastOpenFiles": [
+    "Develop/Project/InfoStation/README.md",
+    "Develop/Project/CodeSpace/README.md",
+    "README.md",
+    "Develop/Project/CodeSpace",
+    "Develop/Project/InfoStation",
+    "Develop/Project/Game-KOB",
+    "Develop/Project",
+    "Develop/Backend",
+    "Develop/Frontend",
+    "Job",
+    "Develop",
+    "Algorithm"
+  ]
 }

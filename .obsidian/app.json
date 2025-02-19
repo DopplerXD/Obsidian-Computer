@@ -1,5 +1,6 @@
 {
   "attachmentFolderPath": "./assets",
   "newFileLocation": "current",
-  "newLinkFormat": "relative"
+  "newLinkFormat": "relative",
+  "autoConvertHtml": false
 }

@@ -2,19 +2,9 @@
 
 基于鱼皮OJ [https://www.codefather.cn/course/1790980707917017089](https://www.codefather.cn/course/1790980707917017089) 和开源社区系统技术派 [https://github.com/itwanger/paicoding](https://github.com/itwanger/paicoding) 的算法学习平台。在线代码评测和博客系统（类似 Luogu）。
 
-![Screenshot 2025-02-16 at 15.20.28.png](attachment:e8d9071b-76dd-4287-9c85-aff483864596:Screenshot_2025-02-16_at_15.20.28.png)
-
-![Screenshot 2025-02-16 at 15.19.50.png](attachment:fa50b816-2070-4496-a14c-beda8a1ca13a:Screenshot_2025-02-16_at_15.19.50.png)
-
-![Screenshot 2025-02-16 at 15.19.18.png](attachment:d2e1b7f7-0b97-49df-8e20-02e8617799f1:Screenshot_2025-02-16_at_15.19.18.png)
-
 ## 项目架构
 
 [https://paicoding.com/article/detail/208](https://paicoding.com/article/detail/208)
-
-![image.png](attachment:2d1d8899-a8ee-4764-be8f-af9f940e2235:image.png)
-
-![image.png](attachment:c1f60e7a-82ee-418c-944b-8aa470c2acf1:image.png)
 
 整个系统的后端分为：
 
